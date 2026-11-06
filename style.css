@@ -1,0 +1,183 @@
+@font-face {
+  font-family: 'RuneBeatiBellicosiRPG';
+  src:  url('fonts/RuneBeatiBellicosiRPG.eot?j4gxu');
+  src:  url('fonts/RuneBeatiBellicosiRPG.eot?j4gxu#iefix') format('embedded-opentype'),
+    url('fonts/RuneBeatiBellicosiRPG.ttf?j4gxu') format('truetype'),
+    url('fonts/RuneBeatiBellicosiRPG.woff?j4gxu') format('woff'),
+    url('fonts/RuneBeatiBellicosiRPG.svg?j4gxu#RuneBeatiBellicosiRPG') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="rune-"], [class*=" rune-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'RuneBeatiBellicosiRPG' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.rune-aceleracion:before {
+  content: "\e900";
+}
+.rune-agilidad:before {
+  content: "\e901";
+}
+.rune-agonia:before {
+  content: "\e902";
+}
+.rune-amissio:before {
+  content: "\e903";
+}
+.rune-antirastreo:before {
+  content: "\e904";
+}
+.rune-anti-veneno:before {
+  content: "\e905";
+}
+.rune-antivirus:before {
+  content: "\e906";
+}
+.rune-apertura:before {
+  content: "\e907";
+}
+.rune-cafeina:before {
+  content: "\e908";
+}
+.rune-circulo:before {
+  content: "\e909";
+}
+.rune-clarividencia:before {
+  content: "\e90a";
+}
+.rune-comunicacion:before {
+  content: "\e90b";
+}
+.rune-comunidad-naturaleza:before {
+  content: "\e90c";
+}
+.rune-conocimiento:before {
+  content: "\e90d";
+}
+.rune-control-natalidad:before {
+  content: "\e90e";
+}
+.rune-desvio-bloqueo:before {
+  content: "\e90f";
+}
+.rune-escudo-agua:before {
+  content: "\e910";
+}
+.rune-escudo-aire:before {
+  content: "\e911";
+}
+.rune-escudo-base-elemental:before {
+  content: "\e912";
+}
+.rune-escudo-fuego:before {
+  content: "\e913";
+}
+.rune-escudo-mente:before {
+  content: "\e914";
+}
+.rune-escudo-tierra:before {
+  content: "\e915";
+}
+.rune-escudo-viento:before {
+  content: "\e916";
+}
+.rune-exilio:before {
+  content: "\e917";
+}
+.rune-flexibilidad:before {
+  content: "\e918";
+}
+.rune-fortis:before {
+  content: "\e919";
+}
+.rune-fuego:before {
+  content: "\e91a";
+}
+.rune-fuerza:before {
+  content: "\e91b";
+}
+.rune-gracia:before {
+  content: "\e91c";
+}
+.rune-hablar-en-lenguas:before {
+  content: "\e91d";
+}
+.rune-hipermetrope:before {
+  content: "\e91e";
+}
+.rune-iluminar:before {
+  content: "\e91f";
+}
+.rune-luto:before {
+  content: "\e920";
+}
+.rune-luz-solar:before {
+  content: "\e921";
+}
+.rune-memoria-eidetica:before {
+  content: "\e922";
+}
+.rune-mendelin:before {
+  content: "\e923";
+}
+.rune-nyx-vision-nocturna:before {
+  content: "\e924";
+}
+.rune-parabatai:before {
+  content: "\e925";
+}
+.rune-parabatai-rastreado:before {
+  content: "\e926";
+}
+.rune-parabatai-rastreador:before {
+  content: "\e927";
+}
+.rune-pensamiento:before {
+  content: "\e928";
+}
+.rune-persuasion:before {
+  content: "\e929";
+}
+.rune-poder:before {
+  content: "\e92a";
+}
+.rune-poder-angelical:before {
+  content: "\e92b";
+}
+.rune-rastreo-true-north:before {
+  content: "\e92c";
+}
+.rune-resistencia:before {
+  content: "\e92d";
+}
+.rune-respirar-bajo-agua:before {
+  content: "\e92e";
+}
+.rune-sigilo:before {
+  content: "\e92f";
+}
+.rune-thermis:before {
+  content: "\e930";
+}
+.rune-union-matrimonial:before {
+  content: "\e931";
+}
+.rune-valor-en-combate:before {
+  content: "\e932";
+}
+.rune-velocidad-aumentada:before {
+  content: "\e933";
+}
